@@ -1,0 +1,14 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title {
+  color: #f12525;
+}
+
+body {
+  background-color: #ddd;
+}
